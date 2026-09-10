@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm Maatriansh 👋
 
-<!--
-**1Maatriansh/1Maatriansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Student • Builder • Curious about technology
 
-Here are some ideas to get you started:
+I like learning by building things rather than just watching tutorials.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm Building
+
+### 🧠 Brain
+A personal knowledge workspace for capturing, organizing,
+and reconnecting ideas, thoughts, notes and resources.
+
+
+---
+
+## 🛠️ Currently Learning
+
+- Web Development
+- Python
+- AI
+- Git & GitHub
+
+---
+
+⭐ Feel free to explore my repositories.
