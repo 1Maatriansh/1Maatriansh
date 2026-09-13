@@ -21,6 +21,6 @@ I am just learning and trying to get into this coding enviroment
 - AI
 - Git & GitHub
 
----
+----
 
 ⭐ Feel free to explore my repositories...
