@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, i'm Maatriansh.
+# Hey, I'm Maatriansh.
 
 ### Building things because i can't stop thinking about them.....
 
