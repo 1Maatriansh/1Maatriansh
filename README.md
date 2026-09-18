@@ -153,11 +153,11 @@ Read something.
 
 Try it.
 
-Break it.
+Break it..
 
-Figure out why.
+Figure out why...
 
-Build something with it.
+Build something with it....
 
 ---
 
