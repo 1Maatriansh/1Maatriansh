@@ -2,7 +2,7 @@
 
 # Hey, I'm Maatriansh.
 
-### Building things because i can't stop thinking about them.....🧠
+### Building things because i can't stop thinking about them....🧠
 
 <br>
 
