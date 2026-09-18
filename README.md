@@ -40,14 +40,14 @@ But if I find something interesting, I usually want to **build it**.
 ## `02 — what i'm into`
 
 ```text
-┌────────────────────┐
+┌─────────────────────┐
 │  WEB                │
 │  UI / UX            │
 │  INTERACTIVE THINGS │
 │  CREATIVE CODING    │
 │  EXPERIMENTS        │
 │  BUILDING IDEAS     │
-└────────────────────┘
+└─────────────────────┘
 ```
 
 I care about more than making something technically work.
