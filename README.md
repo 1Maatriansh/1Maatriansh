@@ -15,7 +15,7 @@
 │                                                              │
 │   MAATRIANSH                                                 │
 │                                                              │
-│   Student  /  Builder  /  experimenter                       │
+│   Student  /  Builder  /  Experimenter                       │
 │                                                              │
 │   currently turning random ideas into things that actually   │
 │   exist...                                                   │
