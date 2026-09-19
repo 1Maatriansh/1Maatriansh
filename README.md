@@ -77,7 +77,7 @@ Some will become serious projects.
 
 Some will probably become absolute chaos.
 
-Both are fine.
+Both are fine..
 
 ---
 
