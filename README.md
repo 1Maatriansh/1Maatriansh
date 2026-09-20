@@ -194,7 +194,7 @@ The last bar is a work in progress.
 
 ## `09 — around here`
 
-If you find something weird, experimental, unfinished, or oddly specific in my repositories...
+If you find something weird, experimental, unfinished, or oddly specific in my repositories..
 
 there's probably a reason.
 
