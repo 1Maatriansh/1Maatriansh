@@ -163,7 +163,7 @@ Build something with it....
 
 ## `07 — outside the code`
 
-Currently balancing:
+Currently balancing :
 
 **JEE preparation × coding × random ideas × trying not to procrastinate**
 
