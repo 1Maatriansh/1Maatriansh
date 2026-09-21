@@ -211,7 +211,7 @@ Or there isn't..
 
 <div align="center">
 
-### thanks for stopping by.
+### Thanks for stopping by.
 
 **— Maatriansh**
 
