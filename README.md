@@ -18,7 +18,7 @@
 │   Student  /  Builder  /  Experimenter                       │
 │                                                              │
 │   Currently turning random ideas into things that actually   │
-│   exist...                                                   │
+│   exist....                                                   │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
 ```
