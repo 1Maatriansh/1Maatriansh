@@ -29,7 +29,7 @@ I'm **Maatriansh**.
 
 I like taking an idea that exists only in my head and pushing it until it becomes something real.
 
-Sometimes that's a website.
+Sometimes that's a Website.
 Sometimes it's an experiment.
 Sometimes it's something completely unnecessary.
 
