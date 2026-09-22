@@ -198,7 +198,7 @@ If you find something weird, experimental, unfinished, or oddly specific in my r
 
 there's probably a reason.
 
-Or there isn't..
+Or there isn't...
 
 ```text
 ┌─────────────────────────────────────────┐
