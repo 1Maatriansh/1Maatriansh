@@ -52,7 +52,7 @@ But if I find something interesting, I usually want to **build it**.
 
 I care about more than making something technically work.
 
-I want it to **feel good to use**.
+I want it to **feel good to use**.....
 
 That means:
 
