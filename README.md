@@ -25,7 +25,7 @@
 
 ## `01 — Who am i?`
 
-I'm **Maatriansh**.
+I'm **Maatriansh**
 
 I like taking an idea that exists only in my head and pushing it until it becomes something real.
 
