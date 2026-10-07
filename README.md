@@ -176,7 +176,7 @@ sleep       ▓░░░░░░░░░░
 
 The last bar is a work in progress.
 
----
+----
 
 ## `08 — things i'm trying to get better at`
 
